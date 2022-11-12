@@ -17,6 +17,15 @@
             caractere = (char) ex: `'a''
         }
 
+        # Inteiros:
+
+        [ bits ]   [ signed ]  [ unsigned ]
+        [  8   ]   [  I8  ]    [  U8   ]
+        [  16  ]   [ I16  ]    [  U16  ]
+        [  32  ]   [ I32  ]    [  U32  ]
+        [  64  ]   [ I64  ]    [  U64  ]
+        [  128 ]   [ I128 ]    [  U128 ]
+
       Tipo2 - Compostos:
 
                             Servem para agregar multiplos valores.
