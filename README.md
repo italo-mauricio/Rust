@@ -13,4 +13,13 @@
       O rico sistema de tipos de Rust e seu modelo de ownership garantem segurança de memória e segurança de concorrência — e permite que você elimine muitas categorias de erros durante a compilação.
   * Produtividade:
       Rust possui uma ótima documentação, um compilador amigável com mensagens de erros úteis, e ferramental de primeira qualidade — uma ferramenta integrada de compilação e gerenciamento de pacotes, suporte inteligente para múltiplos editores com autocompleção e inspeções de tipos, um formatador automático, e muito mais.
+      
+      
+      
+## Sintaxe e comandos Rust:
+    Let = inicialização de uma variável
+    mut = vem de mutável, transforma uma variável em mutável.
+
+## Documentação oficial da linguagem: 
+      https://www.rust-lang.org/pt-BR
     
