@@ -58,8 +58,15 @@ fn main(){
     o default é i32;
     */
 
-    let x = 5;
+    let x = 5.1;  // o compilador entender que ao colocar o ponto, o Rust entende que é um float, pela inferência.
     let y = 199_456_9898;
+    let h = 0xff;   // o compilador entende que a base é hexadecimal
+    let o = 0o77;   // o compilador entende que a base é octal
+    let b = 0b1111_000;  // o compilador entende que a base é binária
+    let by = b'A';  //o compilador entende que o tipo é byte
+    
+
+
  
 
 
