@@ -6,15 +6,17 @@ const SECONDS_IN_MINUTE: u32 = 60;
 
 
 fn main(){    // escopo
-    let total: i32 = 30;
+    
     { // escopo interno   inicio
         // podemos definir constantes dentro ou fora do escopo a qualquer momento.
         const MINUTES_IN_HOUR: u32 = 60;
         const SECONDS_IN_HOUR: u32 = SECONDS_IN_MINUTE + MINUTES_IN_HOUR;
-        let total = total + 20;  //conseguimos acessar o escopo externo, através do escopo interno
+        let total = 30;  //conseguimos acessar o escopo externo, através do escopo interno
+        let total_em_segundos = total * SECONDS_IN_HOUR;
         println!("Trabalhou {} horas", total);
+        println!("Você trabalhou {} segundos", total_em_segundos );
     } // fim 
-    println!("Trabalhou {} horas", total);
+   
 ; 
 
 } // fim
