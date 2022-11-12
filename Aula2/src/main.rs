@@ -36,7 +36,7 @@
         # Unsigned:
                 range: 0 até 2^n -1
                 u8: 0 até 255 [0 até 2^8 -1]
-                
+
 
       Tipo2 - Compostos:
 
@@ -49,3 +49,18 @@
 
 
 */
+
+
+fn main(){
+    /*
+    let x = 5;
+    let y =  x * 200;
+    o default é i32;
+    */
+
+    let x = 5;
+    let y = 199_456_9898;
+ 
+
+
+}
