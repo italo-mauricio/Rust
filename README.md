@@ -1,8 +1,8 @@
-## Repositório destinado ao aprendizado da linguagem Rust !
+## <p align="center"> Repositório destinado ao aprendizado da linguagem Rust ! </p>
 
 
 <p align="center">
-  <img src="https://sempreupdate.com.br/wp-content/uploads/2020/08/rust-social-wide.jpg" width="700" height="300"/>&nbsp;
+  <img src="https://sempreupdate.com.br/wp-content/uploads/2020/08/rust-social-wide.jpg" width="600" height="300"/>&nbsp;
 </p>
 
 
