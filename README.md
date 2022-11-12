@@ -1,4 +1,4 @@
-## Repositório destinao ao aprendizado da linguagem Rust !
+## Repositório destinado ao aprendizado da linguagem Rust !
 
 
 ## Definição da linguagem:
