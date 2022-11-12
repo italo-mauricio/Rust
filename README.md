@@ -1,6 +1,12 @@
 ## Repositório destinado ao aprendizado da linguagem Rust !
 
 
+<p align="center">
+  <img src="https://sempreupdate.com.br/wp-content/uploads/2020/08/rust-social-wide.jpg" width="700" height="300"/>&nbsp;
+</p>
+
+
+
 ## Definição da linguagem:
   
   Rust é uma linguagem de programação multiparadigma compilada desenvolvida pela Mozilla. É projetada para ser segura, eficiente e prática e possui nativo ao WebAssembly. A linguagem possuí uma tipagem forte, sendo altamente usada para optmização de sistemas, games, web e dispõe de um poder incrível no back-end.
