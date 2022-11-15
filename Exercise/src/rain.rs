@@ -1,6 +1,6 @@
 /*
 1) Se o número for divisível por 3, 5, 7, o goku vai dar o kamehameha completo, caso contrário,
-só irá retornar para o usuário partes da STRING.
+só irá retornar para o usuário partes da STRING.|
 
 */
 
